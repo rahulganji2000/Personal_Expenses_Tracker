@@ -1,0 +1,613 @@
+Date,Category,Description,Amount
+8/1/2022,Income,Income,1500
+8/1/2022,Gym,Gym Membership,25
+8/1/2022,Food,Groceries,71.14
+8/1/2022,Transportation,Taxi,6.77
+8/2/2022,Food,Groceries,89.42
+8/3/2022,Food,Groceries,147.93
+8/4/2022,Food,Dine-out,86.48
+8/4/2022,Transportation,Taxi,17.04
+8/5/2022,Utilities,Rent,500
+8/6/2022,Food,Groceries,133.17
+8/6/2022,Food,Dine-out,110.55
+8/14/2022,No Transactions,No Transactions,0
+8/16/2022,No Transactions,No Transactions,0
+8/17/2022,No Transactions,No Transactions,0
+8/24/2022,No Transactions,No Transactions,0
+9/1/2022,Income,Income,1500
+9/1/2022,Gym,Gym Membership,25
+9/1/2022,Entertainment,Streaming Service,10
+9/1/2022,Food,Groceries,79.71
+9/2/2022,Entertainment,Streaming Service,10
+9/2/2022,Food,Groceries,53.63
+9/3/2022,Entertainment,Streaming Service,10
+9/3/2022,Food,Groceries,102.71
+9/3/2022,Food,Dine-out,130.14
+9/4/2022,Food,Groceries,122.52
+9/4/2022,Food,Dine-out,68.3
+9/4/2022,Entertainment,Movie Ticket,20
+9/5/2022,Utilities,Rent,500
+9/5/2022,Utilities,Electricity Bill,149.4
+9/5/2022,Utilities,Water Bill,52.66
+9/5/2022,Utilities,Internet Bill,45
+9/5/2022,Transportation,Taxi,17.64
+9/6/2022,Transportation,Taxi,6.74
+9/6/2022,No Transactions,No Transactions,0
+9/8/2022,Food,Dine-out,50.64
+9/12/2022,Transportation,Taxi,13.98
+9/13/2022,No Transactions,No Transactions,0
+9/14/2022,No Transactions,No Transactions,0
+9/16/2022,Transportation,Taxi,9.13
+9/26/2022,Transportation,Taxi,17.93
+9/26/2022,No Transactions,No Transactions,0
+10/1/2022,Income,Income,1500
+10/1/2022,Gym,Gym Membership,25
+10/1/2022,Entertainment,Streaming Service,10
+10/1/2022,Food,Groceries,135.13
+10/2/2022,Entertainment,Streaming Service,10
+10/2/2022,Food,Groceries,61.79
+10/2/2022,Food,Dine-out,100.39
+10/2/2022,No Transactions,No Transactions,0
+10/3/2022,Food,Groceries,139.28
+10/4/2022,Food,Dine-out,99.98
+10/5/2022,Transportation,Taxi,13.67
+10/6/2022,Food,Dine-out,117.58
+10/6/2022,Transportation,Taxi,9.36
+10/8/2022,Food,Groceries,149.21
+10/8/2022,Food,Dine-out,121.25
+10/9/2022,Food,Dine-out,82.94
+10/10/2022,Food,Dine-out,83.99
+10/15/2022,No Transactions,No Transactions,0
+10/16/2022,Entertainment,Movie Ticket,20
+10/17/2022,Transportation,Taxi,18.91
+10/20/2022,No Transactions,No Transactions,0
+10/22/2022,No Transactions,No Transactions,0
+11/1/2022,Income,Income,1500
+11/1/2022,Gym,Gym Membership,25
+11/1/2022,Entertainment,Streaming Service,20
+11/1/2022,Food,Groceries,123.28
+11/2/2022,Food,Groceries,111.08
+11/2/2022,Transportation,Taxi,10.3
+11/2/2022,No Transactions,No Transactions,0
+11/3/2022,Food,Groceries,60.49
+11/3/2022,Transportation,Taxi,16.35
+11/4/2022,Food,Dine-out,103.84
+11/4/2022,Transportation,Taxi,19.18
+11/5/2022,Utilities,Rent,500
+11/5/2022,Utilities,Electricity Bill,113.41
+11/5/2022,Utilities,Water Bill,32.57
+11/5/2022,Utilities,Internet Bill,45
+11/5/2022,Food,Groceries,125.09
+11/6/2022,Food,Dine-out,59.54
+11/7/2022,Transportation,Taxi,19.41
+11/8/2022,Transportation,Taxi,10.59
+11/9/2022,Transportation,Taxi,6.58
+11/10/2022,No Transactions,No Transactions,0
+11/14/2022,Transportation,Taxi,17.84
+11/15/2022,Transportation,Taxi,18.25
+11/16/2022,Transportation,Taxi,13.59
+11/17/2022,Transportation,Taxi,8.34
+11/17/2022,No Transactions,No Transactions,0
+11/18/2022,Transportation,Taxi,13.32
+11/19/2022,Entertainment,Movie Ticket,20
+11/26/2022,No Transactions,No Transactions,0
+12/1/2022,Income,Income,1500
+12/1/2022,Gym,Gym Membership,25
+12/1/2022,Entertainment,Streaming Service,16
+12/1/2022,Food,Groceries,58.58
+12/1/2022,Food,Dine-out,73.45
+12/2/2022,Food,Groceries,132.78
+12/2/2022,Entertainment,Movie Ticket,20
+12/3/2022,Food,Groceries,73.91
+12/3/2022,Food,Dine-out,99.91
+12/3/2022,Entertainment,Holiday Shopping,274.69
+12/3/2022,No Transactions,No Transactions,0
+12/4/2022,No Transactions,No Transactions,0
+12/5/2022,Food,Dine-out,88.14
+12/5/2022,Entertainment,Holiday Shopping,120.46
+12/6/2022,Food,Dine-out,78.71
+12/8/2022,Food,Groceries,93.09
+12/16/2022,No Transactions,No Transactions,0
+12/19/2022,No Transactions,No Transactions,0
+12/20/2022,No Transactions,No Transactions,0
+12/22/2022,No Transactions,No Transactions,0
+12/24/2022,No Transactions,No Transactions,0
+12/25/2022,No Transactions,No Transactions,0
+1/1/2023,Income,Income,1500
+1/1/2023,Gym,Gym Membership,25
+1/1/2023,Food,Groceries,51.89
+1/1/2023,Food,Dine-out,85.89
+1/2/2023,Food,Groceries,144.65
+1/2/2023,No Transactions,No Transactions,0
+1/3/2023,Entertainment,Streaming Service,10
+1/3/2023,Food,Groceries,114.83
+1/4/2023,Entertainment,Streaming Service,10
+1/4/2023,Food,Dine-out,103.21
+1/5/2023,Utilities,Rent,500
+1/5/2023,Utilities,Electricity Bill,72.17
+1/5/2023,Utilities,Water Bill,35.48
+1/5/2023,Utilities,Internet Bill,45
+1/6/2023,Food,Dine-out,111.65
+1/7/2023,No Transactions,No Transactions,0
+1/8/2023,Food,Groceries,55.35
+1/8/2023,Food,Dine-out,54.16
+1/11/2023,Transportation,Taxi,19.51
+1/12/2023,Transportation,Taxi,8.58
+1/13/2023,No Transactions,No Transactions,0
+1/15/2023,Food,Groceries,64.18
+1/18/2023,Transportation,Taxi,12.37
+1/19/2023,Transportation,Taxi,10.37
+1/23/2023,No Transactions,No Transactions,0
+2/1/2023,Income,Income,1500
+2/1/2023,Gym,Gym Membership,25
+2/1/2023,Food,Groceries,79.4
+2/2/2023,Entertainment,Streaming Service,10
+2/2/2023,Food,Groceries,94.6
+2/3/2023,Entertainment,Streaming Service,10
+2/3/2023,Food,Groceries,87.86
+2/4/2023,Entertainment,Streaming Service,10
+2/4/2023,Entertainment,Movie Ticket,20
+2/5/2023,Utilities,Rent,500
+2/5/2023,Utilities,Electricity Bill,66.69
+2/5/2023,Utilities,Water Bill,51.16
+2/5/2023,Utilities,Internet Bill,45
+2/5/2023,Food,Dine-out,55.33
+2/5/2023,No Transactions,No Transactions,0
+2/6/2023,Food,Dine-out,73.11
+2/10/2023,No Transactions,No Transactions,0
+2/14/2023,Transportation,Taxi,14.69
+2/15/2023,Transportation,Taxi,8.43
+2/17/2023,No Transactions,No Transactions,0
+2/24/2023,No Transactions,No Transactions,0
+3/1/2023,Income,Income,1500
+3/1/2023,Gym,Gym Membership,25
+3/1/2023,Food,Groceries,74.65
+3/1/2023,Transportation,Taxi,10.56
+3/1/2023,No Transactions,No Transactions,0
+3/2/2023,Food,Groceries,127.48
+3/3/2023,Entertainment,Streaming Service,10
+3/3/2023,Food,Groceries,109.12
+3/4/2023,Entertainment,Streaming Service,10
+3/4/2023,Food,Groceries,137.52
+3/4/2023,Food,Dine-out,97.84
+3/5/2023,Utilities,Rent,500
+3/5/2023,Utilities,Electricity Bill,147.39
+3/5/2023,Utilities,Water Bill,30.73
+3/5/2023,Utilities,Internet Bill,45
+3/5/2023,Food,Groceries,129.98
+3/5/2023,Entertainment,Movie Ticket,20
+3/8/2023,Food,Dine-out,68.35
+3/17/2023,No Transactions,No Transactions,0
+3/24/2023,No Transactions,No Transactions,0
+3/25/2023,No Transactions,No Transactions,0
+4/1/2023,Income,Income,1500
+4/1/2023,Gym,Gym Membership,25
+4/1/2023,Entertainment,Streaming Service,20
+4/1/2023,Food,Groceries,138.69
+4/1/2023,Entertainment,Movie Ticket,20
+4/2/2023,Food,Groceries,95.9
+4/2/2023,Food,Dine-out,57.18
+4/3/2023,Food,Groceries,105.86
+4/3/2023,Transportation,Taxi,15.56
+4/7/2023,Food,Dine-out,112.9
+4/7/2023,Transportation,Taxi,19.39
+4/7/2023,No Transactions,No Transactions,0
+4/8/2023,Food,Dine-out,135.14
+4/12/2023,Food,Dine-out,146.54
+4/13/2023,Food,Dine-out,138.73
+4/15/2023,Food,Groceries,86.67
+4/17/2023,Transportation,Taxi,10
+4/17/2023,No Transactions,No Transactions,0
+4/20/2023,Transportation,Taxi,18.19
+4/27/2023,No Transactions,No Transactions,0
+4/28/2023,No Transactions,No Transactions,0
+5/1/2023,Income,Income,1500
+5/1/2023,Gym,Gym Membership,25
+5/1/2023,Food,Groceries,138.46
+5/1/2023,No Transactions,No Transactions,0
+5/2/2023,Entertainment,Streaming Service,7
+5/2/2023,Food,Groceries,113.5
+5/3/2023,Food,Groceries,132.85
+5/3/2023,No Transactions,No Transactions,0
+5/4/2023,Food,Dine-out,141.12
+5/4/2023,Transportation,Taxi,10.61
+5/5/2023,Utilities,Rent,500
+5/5/2023,Utilities,Electricity Bill,125.42
+5/5/2023,Utilities,Water Bill,32.54
+5/5/2023,Utilities,Internet Bill,45
+5/6/2023,Food,Groceries,51.57
+5/6/2023,Food,Dine-out,137.74
+5/7/2023,Food,Dine-out,73.48
+5/10/2023,No Transactions,No Transactions,0
+5/20/2023,No Transactions,No Transactions,0
+6/1/2023,Income,Income,1500
+6/1/2023,Food,Groceries,128.54
+6/2/2023,Food,Groceries,100.19
+6/2/2023,Food,Dine-out,67.42
+6/3/2023,Entertainment,Streaming Service,30
+6/3/2023,Food,Groceries,125.7
+6/3/2023,Food,Dine-out,107.32
+6/3/2023,No Transactions,No Transactions,0
+6/5/2023,Food,Groceries,114.36
+6/6/2023,Food,Groceries,122.49
+6/6/2023,Entertainment,Movie Ticket,20
+6/7/2023,Food,Groceries,82.27
+6/7/2023,Food,Dine-out,143.62
+6/9/2023,Food,Dine-out,73.41
+6/11/2023,No Transactions,No Transactions,0
+6/14/2023,No Transactions,No Transactions,0
+6/16/2023,No Transactions,No Transactions,0
+6/19/2023,No Transactions,No Transactions,0
+6/25/2023,No Transactions,No Transactions,0
+6/26/2023,No Transactions,No Transactions,0
+6/27/2023,No Transactions,No Transactions,0
+7/1/2023,Income,Income,1500
+7/1/2023,Food,Groceries,95.12
+7/1/2023,Food,Dine-out,74.94
+7/1/2023,Entertainment,Movie Ticket,20
+7/1/2023,No Transactions,No Transactions,0
+7/2/2023,Food,Groceries,73.36
+7/3/2023,Entertainment,Streaming Service,7
+7/3/2023,Food,Groceries,133.46
+7/3/2023,Food,Dine-out,80.33
+7/4/2023,Food,Groceries,117.38
+7/5/2023,Utilities,Rent,500
+7/5/2023,Utilities,Electricity Bill,144.59
+7/5/2023,Utilities,Water Bill,51.54
+7/5/2023,Utilities,Internet Bill,45
+7/5/2023,Food,Groceries,142.93
+7/6/2023,No Transactions,No Transactions,0
+7/7/2023,Food,Dine-out,93.82
+7/8/2023,No Transactions,No Transactions,0
+7/12/2023,No Transactions,No Transactions,0
+7/14/2023,No Transactions,No Transactions,0
+7/15/2023,No Transactions,No Transactions,0
+7/21/2023,No Transactions,No Transactions,0
+7/25/2023,No Transactions,No Transactions,0
+8/1/2023,Income,Income,1500
+8/1/2023,Gym,Gym Membership,25
+8/1/2023,Entertainment,Streaming Service,30
+8/1/2023,Food,Groceries,122.09
+8/2/2023,Food,Groceries,73.07
+8/2/2023,No Transactions,No Transactions,0
+8/3/2023,Food,Groceries,133.32
+8/3/2023,Transportation,Taxi,11.03
+8/5/2023,Utilities,Rent,500
+8/5/2023,Utilities,Electricity Bill,129.66
+8/5/2023,Utilities,Water Bill,36.09
+8/5/2023,Utilities,Internet Bill,45
+8/6/2023,No Transactions,No Transactions,0
+8/7/2023,No Transactions,No Transactions,0
+8/15/2023,No Transactions,No Transactions,0
+9/1/2023,Income,Income,1500
+9/1/2023,Gym,Gym Membership,25
+9/1/2023,Food,Groceries,117.05
+9/2/2023,Entertainment,Streaming Service,30
+9/2/2023,Food,Groceries,141.95
+9/2/2023,Food,Dine-out,78.86
+9/2/2023,Entertainment,Movie Ticket,20
+9/3/2023,Food,Groceries,126.72
+9/4/2023,Food,Dine-out,52.18
+9/5/2023,Utilities,Rent,500
+9/5/2023,Utilities,Electricity Bill,99.03
+9/5/2023,Utilities,Water Bill,36.65
+9/5/2023,Utilities,Internet Bill,45
+9/5/2023,Transportation,Taxi,14.12
+9/8/2023,Food,Dine-out,115.29
+9/9/2023,Food,Groceries,71.03
+9/9/2023,No Transactions,No Transactions,0
+9/11/2023,Food,Dine-out,70.2
+9/13/2023,Transportation,Taxi,15.74
+9/17/2023,No Transactions,No Transactions,0
+9/18/2023,No Transactions,No Transactions,0
+9/19/2023,Transportation,Taxi,17.18
+9/25/2023,No Transactions,No Transactions,0
+10/1/2023,Income,Income,1500
+10/1/2023,Gym,Gym Membership,25
+10/1/2023,Food,Groceries,123.46
+10/2/2023,Food,Groceries,110.93
+10/2/2023,Transportation,Taxi,14.32
+10/3/2023,Food,Groceries,82.55
+10/3/2023,No Transactions,No Transactions,0
+10/4/2023,Entertainment,Streaming Service,16
+10/5/2023,Utilities,Rent,500
+10/5/2023,Utilities,Electricity Bill,91.66
+10/5/2023,Utilities,Water Bill,36.45
+10/5/2023,Utilities,Internet Bill,45
+10/7/2023,No Transactions,No Transactions,0
+10/10/2023,Transportation,Taxi,13.39
+10/12/2023,Food,Dine-out,63.2
+10/13/2023,No Transactions,No Transactions,0
+10/20/2023,No Transactions,No Transactions,0
+11/1/2023,Income,Income,1500
+11/1/2023,Gym,Gym Membership,25
+11/1/2023,Entertainment,Streaming Service,10
+11/1/2023,Food,Groceries,67.78
+11/1/2023,Transportation,Taxi,18.09
+11/2/2023,Entertainment,Streaming Service,10
+11/2/2023,Food,Groceries,108.06
+11/3/2023,Food,Groceries,53.57
+11/4/2023,Food,Groceries,103.97
+11/5/2023,Utilities,Rent,500
+11/5/2023,Utilities,Electricity Bill,69.06
+11/5/2023,Utilities,Water Bill,36.19
+11/5/2023,Utilities,Internet Bill,45
+11/5/2023,Food,Dine-out,99.74
+11/5/2023,Entertainment,Movie Ticket,20
+11/6/2023,Food,Dine-out,52.73
+11/7/2023,Transportation,Taxi,15.26
+11/8/2023,Food,Dine-out,115.38
+11/9/2023,Food,Dine-out,98.07
+11/11/2023,Food,Dine-out,73.67
+11/12/2023,No Transactions,No Transactions,0
+11/13/2023,Transportation,Taxi,11.34
+11/14/2023,Transportation,Taxi,14.92
+11/15/2023,Transportation,Taxi,8.98
+11/16/2023,Transportation,Taxi,19.18
+11/16/2023,No Transactions,No Transactions,0
+11/23/2023,No Transactions,No Transactions,0
+11/25/2023,No Transactions,No Transactions,0
+12/1/2023,Income,Income,1500
+12/1/2023,Gym,Gym Membership,25
+12/1/2023,Entertainment,Streaming Service,20
+12/1/2023,Food,Groceries,99.75
+12/1/2023,Food,Dine-out,138.6
+12/1/2023,No Transactions,No Transactions,0
+12/2/2023,Food,Groceries,88.87
+12/2/2023,Entertainment,Movie Ticket,20
+12/2/2023,No Transactions,No Transactions,0
+12/3/2023,Food,Groceries,106.85
+12/3/2023,Food,Dine-out,75.97
+12/4/2023,Food,Dine-out,70.37
+12/5/2023,Food,Groceries,132.65
+12/5/2023,Food,Dine-out,62.5
+12/6/2023,Food,Dine-out,97.18
+12/6/2023,No Transactions,No Transactions,0
+12/7/2023,Food,Groceries,124.66
+12/13/2023,Food,Groceries,61.43
+12/14/2023,No Transactions,No Transactions,0
+12/16/2023,No Transactions,No Transactions,0
+12/20/2023,No Transactions,No Transactions,0
+12/22/2023,No Transactions,No Transactions,0
+12/26/2023,No Transactions,No Transactions,0
+1/1/2024,Income,Income,1500
+1/1/2024,Gym,Gym Membership,25
+1/1/2024,Food,Groceries,125.91
+1/1/2024,Transportation,Taxi,18.66
+1/2/2024,Entertainment,Streaming Service,30
+1/2/2024,Food,Groceries,101.49
+1/3/2024,Food,Groceries,121.01
+1/3/2024,Transportation,Taxi,11.33
+1/4/2024,Food,Dine-out,60.29
+1/4/2024,Transportation,Taxi,7.48
+1/5/2024,Utilities,Rent,500
+1/5/2024,Utilities,Electricity Bill,67.16
+1/5/2024,Utilities,Water Bill,56.3
+1/5/2024,Utilities,Internet Bill,45
+1/6/2024,Food,Groceries,98.85
+1/6/2024,Food,Dine-out,61.19
+1/6/2024,Entertainment,Movie Ticket,20
+1/7/2024,Food,Dine-out,88.7
+1/8/2024,Food,Dine-out,96.03
+1/11/2024,Transportation,Taxi,7.38
+1/11/2024,No Transactions,No Transactions,0
+1/18/2024,No Transactions,No Transactions,0
+1/19/2024,No Transactions,No Transactions,0
+1/25/2024,No Transactions,No Transactions,0
+1/30/2024,Transportation,Taxi,17.33
+2/1/2024,Income,Income,1500
+2/1/2024,Gym,Gym Membership,25
+2/1/2024,Food,Groceries,57.33
+2/1/2024,Transportation,Taxi,5.43
+2/2/2024,Food,Groceries,53.34
+2/3/2024,Entertainment,Streaming Service,20
+2/3/2024,Food,Groceries,120.36
+2/3/2024,Food,Dine-out,84.13
+2/3/2024,Entertainment,Movie Ticket,20
+2/5/2024,Utilities,Rent,500
+2/5/2024,Utilities,Electricity Bill,106.37
+2/5/2024,Utilities,Water Bill,51.21
+2/5/2024,Utilities,Internet Bill,45
+2/5/2024,Transportation,Taxi,17.18
+2/6/2024,Transportation,Taxi,10.33
+2/7/2024,Transportation,Taxi,10.49
+2/11/2024,No Transactions,No Transactions,0
+2/16/2024,No Transactions,No Transactions,0
+2/18/2024,No Transactions,No Transactions,0
+2/27/2024,No Transactions,No Transactions,0
+3/1/2024,Income,Income,1500
+3/1/2024,Gym,Gym Membership,25
+3/1/2024,Food,Groceries,69.85
+3/1/2024,Transportation,Taxi,9.03
+3/2/2024,Food,Groceries,146.12
+3/2/2024,Food,Dine-out,93.41
+3/2/2024,No Transactions,No Transactions,0
+3/3/2024,Food,Groceries,125.5
+3/4/2024,Entertainment,Streaming Service,10
+3/4/2024,Food,Dine-out,82.81
+3/4/2024,Transportation,Taxi,13.94
+3/4/2024,No Transactions,No Transactions,0
+3/5/2024,Utilities,Rent,500
+3/5/2024,Utilities,Electricity Bill,122.48
+3/5/2024,Utilities,Water Bill,40.31
+3/5/2024,Utilities,Internet Bill,45
+3/5/2024,Entertainment,Streaming Service,10
+3/5/2024,Transportation,Taxi,15.18
+3/6/2024,Entertainment,Streaming Service,10
+3/6/2024,No Transactions,No Transactions,0
+3/7/2024,Food,Dine-out,77.83
+3/8/2024,Food,Dine-out,109.72
+3/9/2024,Food,Groceries,54.04
+3/13/2024,No Transactions,No Transactions,0
+4/1/2024,Income,Income,1500
+4/1/2024,Gym,Gym Membership,25
+4/1/2024,Entertainment,Streaming Service,10
+4/1/2024,Food,Groceries,120.53
+4/2/2024,Food,Groceries,70.95
+4/3/2024,Food,Groceries,57.97
+4/3/2024,Transportation,Taxi,19.82
+4/3/2024,No Transactions,No Transactions,0
+4/4/2024,Food,Dine-out,111.82
+4/5/2024,Utilities,Rent,500
+4/5/2024,Utilities,Electricity Bill,99.84
+4/5/2024,Utilities,Water Bill,40.84
+4/5/2024,Utilities,Internet Bill,45
+4/6/2024,Entertainment,Streaming Service,16
+4/6/2024,Entertainment,Movie Ticket,20
+4/9/2024,No Transactions,No Transactions,0
+4/10/2024,No Transactions,No Transactions,0
+4/24/2024,No Transactions,No Transactions,0
+5/1/2024,Income,Income,1500
+5/1/2024,Gym,Gym Membership,25
+5/1/2024,Food,Groceries,56.52
+5/2/2024,Food,Groceries,103.48
+5/3/2024,Food,Groceries,115.22
+5/3/2024,Transportation,Taxi,11.9
+5/4/2024,Food,Groceries,85.62
+5/5/2024,Utilities,Rent,500
+5/5/2024,Utilities,Electricity Bill,70.31
+5/5/2024,Utilities,Water Bill,49.95
+5/5/2024,Utilities,Internet Bill,45
+5/5/2024,Food,Dine-out,71.14
+5/6/2024,Entertainment,Streaming Service,20
+5/7/2024,Food,Dine-out,136.72
+5/7/2024,Transportation,Taxi,6.5
+5/10/2024,No Transactions,No Transactions,0
+5/11/2024,Food,Dine-out,129.7
+5/12/2024,Food,Groceries,85.73
+5/12/2024,Entertainment,Movie Ticket,20
+5/13/2024,Transportation,Taxi,8.93
+5/13/2024,No Transactions,No Transactions,0
+5/14/2024,No Transactions,No Transactions,0
+5/15/2024,Transportation,Taxi,6.63
+5/17/2024,No Transactions,No Transactions,0
+6/1/2024,Income,Income,1500
+6/1/2024,Entertainment,Streaming Service,20
+6/1/2024,Food,Groceries,74.03
+6/1/2024,Entertainment,Movie Ticket,20
+6/2/2024,Food,Groceries,94
+6/2/2024,Food,Dine-out,100.83
+6/2/2024,No Transactions,No Transactions,0
+6/3/2024,Food,Groceries,127.86
+6/4/2024,Food,Dine-out,61.32
+6/4/2024,No Transactions,No Transactions,0
+6/5/2024,Utilities,Rent,500
+6/5/2024,Utilities,Electricity Bill,65.85
+6/5/2024,Utilities,Water Bill,39.93
+6/5/2024,Utilities,Internet Bill,45
+6/5/2024,No Transactions,No Transactions,0
+6/6/2024,No Transactions,No Transactions,0
+6/16/2024,No Transactions,No Transactions,0
+6/17/2024,No Transactions,No Transactions,0
+6/21/2024,No Transactions,No Transactions,0
+6/25/2024,No Transactions,No Transactions,0
+7/1/2024,Income,Income,1500
+7/1/2024,Food,Groceries,96.91
+7/1/2024,Food,Dine-out,119.85
+7/1/2024,Entertainment,Movie Ticket,20
+7/2/2024,Entertainment,Streaming Service,16
+7/2/2024,Food,Groceries,149.75
+7/3/2024,Food,Groceries,132.79
+7/3/2024,Food,Dine-out,88.65
+7/5/2024,Utilities,Rent,500
+7/5/2024,Utilities,Electricity Bill,70.2
+7/5/2024,Utilities,Water Bill,50.41
+7/5/2024,Utilities,Internet Bill,45
+7/6/2024,Food,Groceries,93.8
+7/6/2024,Food,Dine-out,62.61
+7/8/2024,Food,Groceries,78.39
+7/10/2024,No Transactions,No Transactions,0
+7/14/2024,No Transactions,No Transactions,0
+7/18/2024,No Transactions,No Transactions,0
+7/20/2024,No Transactions,No Transactions,0
+7/24/2024,No Transactions,No Transactions,0
+7/25/2024,No Transactions,No Transactions,0
+7/26/2024,No Transactions,No Transactions,0
+7/28/2024,No Transactions,No Transactions,0
+8/1/2024,Income,Income,1500
+8/1/2024,Gym,Gym Membership,25
+8/1/2024,Food,Groceries,69.56
+8/1/2024,Transportation,Taxi,7.4
+8/1/2024,No Transactions,No Transactions,0
+8/2/2024,Food,Groceries,111.66
+8/3/2024,Food,Groceries,121.26
+8/3/2024,Food,Dine-out,121.8
+8/4/2024,Entertainment,Streaming Service,16
+8/4/2024,Food,Groceries,108.31
+8/4/2024,Entertainment,Movie Ticket,20
+8/5/2024,No Transactions,No Transactions,0
+8/6/2024,Food,Dine-out,148.68
+8/7/2024,Food,Dine-out,50.3
+8/8/2024,Transportation,Taxi,10.82
+8/9/2024,Transportation,Taxi,19.93
+8/10/2024,Food,Groceries,104.87
+8/10/2024,Food,Dine-out,127.25
+8/11/2024,No Transactions,No Transactions,0
+8/13/2024,Food,Dine-out,109
+8/25/2024,No Transactions,No Transactions,0
+9/1/2024,Income,Income,1500
+9/1/2024,Gym,Gym Membership,25
+9/1/2024,Entertainment,Streaming Service,10
+9/1/2024,Food,Groceries,107.42
+9/1/2024,Food,Dine-out,128.41
+9/2/2024,Entertainment,Streaming Service,10
+9/2/2024,Food,Groceries,128.24
+9/2/2024,Transportation,Taxi,12.82
+9/2/2024,No Transactions,No Transactions,0
+9/3/2024,Entertainment,Streaming Service,10
+9/3/2024,Food,Groceries,55.39
+9/5/2024,Utilities,Rent,500
+9/5/2024,Utilities,Electricity Bill,98.84
+9/5/2024,Utilities,Water Bill,42.11
+9/5/2024,Utilities,Internet Bill,45
+9/6/2024,Food,Dine-out,69.63
+9/7/2024,Entertainment,Movie Ticket,20
+9/8/2024,Food,Groceries,82.97
+9/9/2024,Food,Dine-out,111.88
+9/9/2024,Transportation,Taxi,14.07
+9/10/2024,Transportation,Taxi,12.69
+9/13/2024,Transportation,Taxi,19.28
+9/14/2024,No Transactions,No Transactions,0
+9/16/2024,Transportation,Taxi,12.24
+9/19/2024,No Transactions,No Transactions,0
+9/28/2024,No Transactions,No Transactions,0
+10/1/2024,Income,Income,1500
+10/1/2024,Gym,Gym Membership,25
+10/1/2024,Food,Groceries,51.15
+10/2/2024,Food,Groceries,105.7
+10/2/2024,Transportation,Taxi,16.18
+10/3/2024,Food,Groceries,126.68
+10/4/2024,Food,Dine-out,139.2
+10/4/2024,Transportation,Taxi,19
+10/5/2024,Entertainment,Streaming Service,10
+10/5/2024,Food,Dine-out,118.25
+10/5/2024,Entertainment,Movie Ticket,20
+10/5/2024,No Transactions,No Transactions,0
+10/6/2024,Entertainment,Streaming Service,10
+10/6/2024,Food,Groceries,78.29
+10/6/2024,Food,Dine-out,105.65
+10/7/2024,Entertainment,Streaming Service,10
+10/8/2024,Food,Dine-out,58.98
+10/11/2024,Food,Dine-out,125.22
+10/14/2024,Food,Dine-out,124.27
+10/14/2024,No Transactions,No Transactions,0
+10/15/2024,No Transactions,No Transactions,0
+10/22/2024,Transportation,Taxi,19.38
+10/27/2024,No Transactions,No Transactions,0
+10/31/2024,Transportation,Taxi,9.64
+11/1/2024,Income,Income,1500
+11/1/2024,Gym,Gym Membership,25
+11/1/2024,Food,Groceries,115.26
+11/1/2024,Transportation,Taxi,6.62
+11/2/2024,Entertainment,Streaming Service,20
+11/2/2024,Food,Groceries,57.5
+11/2/2024,Food,Dine-out,82.06
+11/3/2024,Food,Groceries,132.16
+11/5/2024,Utilities,Rent,500
+11/5/2024,Utilities,Electricity Bill,84.2
+11/5/2024,Utilities,Water Bill,34.37
+11/5/2024,Utilities,Internet Bill,45
+11/5/2024,Food,Dine-out,133.05
+11/5/2024,Transportation,Taxi,10.47
+11/6/2024,Transportation,Taxi,5.29
+11/7/2024,Transportation,Taxi,18.86
