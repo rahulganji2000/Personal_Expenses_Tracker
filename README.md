@@ -1,68 +1,14 @@
-# Personal_Expenses_Tracker
-This file provides a clear and simple overview, links to files, and summarizes the project.
-This project is a comprehensive data-driven solution designed to help users, specifically students, monitor and analyze their spending habits. It includes data creation, exploratory data analysis (EDA), predictive modeling, and visualizations using Python. The data is tailored to reflect a typical student's expenses, offering insights into financial patterns and forecasting future spending trends.
+# Personal Expense Tracker Project
 
----
+This project provides a data-driven solution to track, analyze, and forecast monthly expenses. Designed from a student’s perspective, it includes data generation, expense categorization, exploratory data analysis (EDA), and predictive modeling, all done in Python.
 
-## Project Structure
+## Project Highlights
 
-- **Data Creation**: Generates a realistic dataset of expenses, designed from a student’s perspective.
-- **Complete Data Lifecycle**: Processes the generated data, performs EDA, and builds predictive models to forecast expenses.
-- **Dataset**: Contains the final dataset used for analysis.
+- **Data Generation**: Created a realistic dataset of student expenses.
+- **Exploratory Data Analysis (EDA)**: Analyzed spending patterns, categorized expenses, and identified savings opportunities.
+- **Predictive Modeling**: Built a forecast model for monthly expenses using SARIMA.
 
----
+## Getting Started
 
-## Files
+To view the full project, click on the **[in_python](./in_python)** folder. Inside, you’ll find all Jupyter notebooks and the dataset used in this analysis.
 
-- **[Data Creation (Notebook)](./Python/data_creation.ipynb)**: Jupyter Notebook to create a realistic expense dataset based on student spending patterns.
-- **[Complete Data Lifecycle (Notebook)](./Python/data_lifecycle.ipynb)**: Jupyter Notebook containing data cleaning, EDA, visualizations, and predictive modeling.
-- **[Dataset](./Python/dataset.csv)**: The final dataset used for analysis.
-
----
-
-## Key Insights
-
-### 1. Income vs. Expense Overview
-   - Monthly income is consistent, with expenses generally staying below income, allowing for savings.
-   - Certain months show expenses approaching income, indicating high spending periods.
-
-### 2. Essential vs. Non-Essential Spending
-   - **Essential** expenses (e.g., rent, groceries) dominate monthly spending.
-   - **Non-essential** expenses (e.g., entertainment, dining out) vary by month, especially around holidays and weekends.
-
-### 3. Spending Patterns by Day of the Week
-   - Higher spending on weekends, particularly Saturdays, likely due to leisure activities.
-   - Lower spending on weekdays aligns with a student budget focused on essentials.
-
-### 4. Monthly Spending Trends
-   - Spending trends fluctuate slightly each month, influenced by essential expenses and occasional higher non-essential costs.
-
-### 5. Cumulative Income vs. Cumulative Expenses
-   - Income consistently exceeds expenses, indicating positive cash flow.
-   - This surplus provides a stable foundation for budgeting and saving.
-
-### 6. Forecasting Future Expenses
-   - Using SARIMA, a monthly expense forecast was generated for the next 12 months.
-   - The forecast suggests stable expenses with slight seasonal fluctuations, helping students plan for high-cost months.
-
----
-
-## Technologies Used
-
-- **Python** for data processing, analysis, and modeling
-- **Jupyter Notebook** for developing, documenting, and sharing the code
-- **SARIMA Model** for expense forecasting
-
----
-
-## How to Use
-
-1. **Data Creation**: Run the [Data Creation Notebook](./Python/data_creation.ipynb) to generate the dataset.
-2. **Complete Analysis**: Use the [Data Lifecycle Notebook](./Python/data_lifecycle.ipynb) to perform analysis, visualize trends, and make predictions.
-3. **Dataset**: Refer to the [Dataset](./Python/dataset.csv) if you want to skip data generation and jump to analysis.
-
----
-
-## Final Thoughts
-
-The **Personal Expense Tracker** is designed to provide valuable financial insights for students. It helps users track, optimize, and forecast their expenses, empowering them to make data-driven financial decisions.
