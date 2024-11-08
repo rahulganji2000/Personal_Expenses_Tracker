@@ -47,17 +47,6 @@ This project is a comprehensive data-driven solution designed to help users, spe
 
 ---
 
-## Visualizations
-
-### Key Charts:
-1. **Total Income vs. Total Expenses**: Compares monthly income and expenses.
-2. **Essential vs. Non-Essential Spending Pie Chart**: Shows the proportion of essential to non-essential expenses.
-3. **Monthly Spending Heatmap**: Displays average spending by day of the week for each month.
-4. **Cumulative Income vs. Cumulative Expenses Line Chart**: Shows long-term financial health by tracking income and expenses over time.
-5. **Monthly Expense Forecast**: Forecasts future expenses, allowing users to anticipate high-expense months.
-
----
-
 ## Technologies Used
 
 - **Python** for data processing, analysis, and modeling
