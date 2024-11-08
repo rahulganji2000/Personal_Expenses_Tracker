@@ -7,7 +7,7 @@ This project aimed to create a comprehensive data-driven solution to analyze and
 
 - **[Data Creation (Notebook)](./Python/data_creation.ipynb)**: Jupyter Notebook to create a realistic expense dataset based on student spending patterns.
 - **[Complete Data Lifecycle (Notebook)](./Python/data_lifecycle.ipynb)**: Jupyter Notebook containing data cleaning, EDA, visualizations, and predictive modeling.
-- **[Dataset](./Python/dataset.csv)**: The final dataset used for analysis.
+- **[Dataset](./Python/income_and_utilities_expense_tracker.csv)**: The final dataset used for analysis.
 
 ---
 ## Summary of Analysis
