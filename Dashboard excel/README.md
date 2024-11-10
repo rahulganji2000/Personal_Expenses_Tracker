@@ -24,5 +24,3 @@ This Excel dashboard provides a comprehensive view of personal income and utilit
 - [Income and Utilities Expense Tracker Excel File](./income_and_utilities_expense_tracker.xlsx) - The Excel file containing the income and expense tracker.
 
 ---
-
-This code should make the image visible in the README file, and the links at the bottom provide direct access to the files. Let me know if you need further assistance!
