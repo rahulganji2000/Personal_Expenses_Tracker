@@ -12,12 +12,6 @@ This Excel dashboard provides a comprehensive view of personal income and utilit
 - **Expense Breakdown**: Visualize utility expenses by category (electricity, water, internet) to understand spending patterns.
 - **Interactive Graphs**: Track data trends over time with dynamic charts and graphs, making it easier to analyze changes.
 
-## Usage
-
-1. Open the [`income_and_utilities_expense_tracker.xlsx`](./income_and_utilities_expense_tracker.xlsx) file.
-2. Input your monthly income and utility expenses in the designated fields.
-3. The dashboard will automatically update to reflect your data, giving real-time insights.
-
 ## Files
 
 - [Dashboard Image](./Dashboard.png) - A preview of the dashboard interface.
