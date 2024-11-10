@@ -1,6 +1,6 @@
-# Personal Expense Tracker Project
+# Personal Expense Analysis & Forcasting in Python
 
-This project aimed to create a comprehensive data-driven solution to analyze and predict monthly expenses, helping users monitor their spending patterns, identify savings opportunities, and make more informed financial decisions.
+This part is aimed to create a comprehensive data-driven solution to analyze and predict monthly expenses, helping users monitor their spending patterns, identify savings opportunities, and make more informed financial decisions.
 
 ---
 ## Project Files
@@ -52,10 +52,7 @@ This project aimed to create a comprehensive data-driven solution to analyze and
 2. **Focus on High-Cost Months**:
    - Certain months had higher expenses, possibly due to utilities, seasonal shopping, or entertainment. Preparing for these months by adjusting discretionary spending or setting aside additional savings can help manage these periods better.
 
-3. **Budget Buffer for Seasonal Variation**:
-   - The forecast suggests periodic expense fluctuations. Users could maintain a buffer in their budget to accommodate these spikes, reducing reliance on savings during high-cost periods.
-
-4. **Savings Allocation**:
+3. **Savings Allocation**:
    - With income consistently exceeding expenses, allocating a specific percentage of income directly to savings or investments each month can help maintain financial health. Setting a savings goal based on forecasted expenses supports disciplined financial planning.
 
 ---
@@ -64,7 +61,7 @@ This project aimed to create a comprehensive data-driven solution to analyze and
 
 This analysis aligns with the job description by:
 
-- **Analyzing Trends**: We identified both monthly and seasonal expense trends, providing insights into user spending habits and enabling better budgeting.
+- **Analyzing Trends**: Identified both monthly and seasonal expense trends, providing insights into user spending habits and enabling better budgeting.
 - **Predictive Modeling**: The SARIMA model for monthly expense forecasting demonstrates proficiency in predictive analytics, relevant for supporting data-driven recommendations.
 - **Actionable Financial Insights**: The analysis provided clear recommendations, key for roles focused on delivering customer value and improving financial decision-making.
 - **Data Visualization**: The visualizations (line charts, heatmaps, and bar charts) effectively communicated data patterns, enhancing insights accessibility, aligning with the need for strong data visualization skills.
@@ -73,6 +70,6 @@ This analysis aligns with the job description by:
 
 ## Final Thoughts
 
-This project successfully demonstrates the ability to gather insights, predict future trends, and provide practical recommendations. It reflects a blend of **technical skill in data analysis and predictive modeling** with a focus on **real-world financial applications**. These insights support user budgeting and financial planning, aligning with the job's emphasis on providing valuable, data-driven recommendations for customer success and improved financial health.
+This project successfully demonstrates the ability to gather insights, predict future trends, and provide practical recommendations. It reflects a blend of **technical skill in data analysis** and **predictive modeling** with a focus on real-world financial applications. These insights support user budgeting and financial planning, aligning with the job's emphasis on providing valuable, data-driven recommendations for customer success and improved financial health.
 
-This analysis can serve as a foundation for future improvements, such as incorporating additional data sources (e.g., holiday spending effects), adding more advanced predictive techniques, or integrating it into a personal finance dashboard.
+This analysis can serve as a foundation for future improvements, such as incorporating additional data sources (e.g., holiday spending effects), adding more advanced predictive techniques, or integrating it into a [personal finance dashboard](./Dashboard%20excel/income_and_utilities_expense_tracker.xlsx).
