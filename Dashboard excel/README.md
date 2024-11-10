@@ -1,7 +1,6 @@
-
 # Income and Utilities Expense Tracker Dashboard
 
-![Income and Utilities Expense Tracker](Dashboard.png)
+![Dashboard](Dashborard.png)
 
 ## Overview
 
@@ -16,15 +15,15 @@ This Excel dashboard provides a comprehensive view of personal income and utilit
 
 ## Usage
 
-1. Open the `income_and_utilities_expense_tracker.xlsx` file.
+1. Open the [`income_and_utilities_expense_tracker.xlsx`](./income_and_utilities_expense_tracker.xlsx) file.
 2. Input your monthly income and utility expenses in the designated fields.
 3. The dashboard will automatically update to reflect your data, giving real-time insights.
 
 ## Files
 
-- **Dashboard.png**: A screenshot of the dashboard for reference.
-- **income_and_utilities_expense_tracker.xlsx**: The Excel file with the income and expense tracker.
+- ![Dashboard Image](./Dashboard.png) - A preview of the dashboard interface.
+- [Income and Utilities Expense Tracker Excel File](./income_and_utilities_expense_tracker.xlsx) - The Excel file containing the income and expense tracker.
 
 ---
 
-This README code should work within the "Dashboard excel" folder. Let me know if you need further customization or help with any other details!
+This code should make the image visible in the README file, and the links at the bottom provide direct access to the files. Let me know if you need further assistance!
